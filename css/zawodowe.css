@@ -1,0 +1,18 @@
+.card_opis {
+    color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+    max-width: 300px;
+    min-height: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  
+  #zawodowe {
+    background-color: rgba(255, 255, 255, 0.7);
+    margin: 0;
+  }
+
+  .karta {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+  }
